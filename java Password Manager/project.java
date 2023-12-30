@@ -30,8 +30,7 @@ public class project{
             " | |  | | (_| | | | | (_| | (_| |  __/ |     \n" +
             " |_|  |_|\\__,_|_| |_|\\__,_|\\__, |\\___|_|     \n" +
             "                            __/ |            \n" +
-            "                           |___/   \n" + 
-            "MADE BY:\n       ABDULMOUIZE SP23-BCT-002\n       &\n       Irfanfareed SP23-BCT-022\n");
+            "                           |___/   \n");
 
             System.out.print("Please enter:\n1). Password manager\n2). Password Cehcking\n0). To exit.\n==> ");
             option = key.next().charAt(0);
